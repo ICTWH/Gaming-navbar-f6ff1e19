@@ -1,9 +1,9 @@
-.topnav{
+.navbar{
     display: flex;
     justify-content: space-around;
     background-color: rgb(247, 168, 21);
     height: 70px;
-    line-height: 5;
+    line-height: 3;
 }
 
 li{
